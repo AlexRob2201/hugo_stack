@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Dog простір</title>
-        <link>https://example.com/uk/tags/</link>
+        <link>/uk/tags/</link>
         <description>Recent content in Tags on Dog простір</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>uk</language>
         <copyright>Alexb.rob</copyright>
-        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/uk/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/uk/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Bash</title>
-        <link>https://example.com/uk/tags/bash/</link>
+        <link>/uk/tags/bash/</link>
         <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/uk/tags/bash/</guid>
+        <guid>/uk/tags/bash/</guid>
         <description></description>
         </item>
         <item>
         <title>Linux</title>
-        <link>https://example.com/uk/tags/linux/</link>
+        <link>/uk/tags/linux/</link>
         <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/uk/tags/linux/</guid>
+        <guid>/uk/tags/linux/</guid>
         <description></description>
         </item>
         <item>
         <title>Css</title>
-        <link>https://example.com/uk/tags/css/</link>
+        <link>/uk/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/uk/tags/css/</guid>
+        <guid>/uk/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://example.com/uk/tags/html/</link>
+        <link>/uk/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/uk/tags/html/</guid>
+        <guid>/uk/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://example.com/uk/tags/markdown/</link>
+        <link>/uk/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/uk/tags/markdown/</guid>
+        <guid>/uk/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://example.com/uk/tags/themes/</link>
+        <link>/uk/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/uk/tags/themes/</guid>
+        <guid>/uk/tags/themes/</guid>
         <description></description>
         </item>
         
