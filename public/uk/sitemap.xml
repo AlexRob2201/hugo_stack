@@ -2,262 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/uk/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="http://localhost:1313/hugo_stack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/"
+                href="http://localhost:1313/hugo_stack/uk/"
                 />
   </url><url>
-    <loc>/uk/tags/bash/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/tags/bash/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/bash/"
+                href="http://localhost:1313/hugo_stack/tags/bash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/tags/bash/"
+                href="http://localhost:1313/hugo_stack/uk/tags/bash/"
                 />
   </url><url>
-    <loc>/uk/categories/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/categories/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="http://localhost:1313/hugo_stack/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/categories/"
+                href="http://localhost:1313/hugo_stack/uk/categories/"
                 />
   </url><url>
-    <loc>/uk/tags/linux/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/tags/linux/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/linux/"
+                href="http://localhost:1313/hugo_stack/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/tags/linux/"
+                href="http://localhost:1313/hugo_stack/uk/tags/linux/"
                 />
   </url><url>
-    <loc>/uk/categories/linux/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/categories/linux/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/linux/"
+                href="http://localhost:1313/hugo_stack/categories/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/categories/linux/"
+                href="http://localhost:1313/hugo_stack/uk/categories/linux/"
                 />
   </url><url>
-    <loc>/uk/page/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/page/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/"
+                href="http://localhost:1313/hugo_stack/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/page/"
+                href="http://localhost:1313/hugo_stack/uk/page/"
                 />
   </url><url>
-    <loc>/uk/post/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/post/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="http://localhost:1313/hugo_stack/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/post/"
+                href="http://localhost:1313/hugo_stack/uk/post/"
                 />
   </url><url>
-    <loc>/uk/tags/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/tags/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="http://localhost:1313/hugo_stack/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/tags/"
+                href="http://localhost:1313/hugo_stack/uk/tags/"
                 />
   </url><url>
-    <loc>/uk/archives/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/archives/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archives/"
+                href="http://localhost:1313/hugo_stack/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/archives/"
+                href="http://localhost:1313/hugo_stack/uk/archives/"
                 />
   </url><url>
-    <loc>/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/p/linux-useful-command/"
+                href="http://localhost:1313/hugo_stack/p/linux-useful-command/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/"
+                href="http://localhost:1313/hugo_stack/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/"
                 />
   </url><url>
-    <loc>/uk/tags/css/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/css/"
+                href="http://localhost:1313/hugo_stack/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/tags/css/"
+                href="http://localhost:1313/hugo_stack/uk/tags/css/"
                 />
   </url><url>
-    <loc>/uk/tags/html/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/html/"
+                href="http://localhost:1313/hugo_stack/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/tags/html/"
+                href="http://localhost:1313/hugo_stack/uk/tags/html/"
                 />
   </url><url>
-    <loc>/uk/tags/markdown/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/markdown/"
+                href="http://localhost:1313/hugo_stack/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/tags/markdown/"
+                href="http://localhost:1313/hugo_stack/uk/tags/markdown/"
                 />
   </url><url>
-    <loc>/uk/categories/syntax/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/syntax/"
+                href="http://localhost:1313/hugo_stack/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/categories/syntax/"
+                href="http://localhost:1313/hugo_stack/uk/categories/syntax/"
                 />
   </url><url>
-    <loc>/uk/tags/themes/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/themes/"
+                href="http://localhost:1313/hugo_stack/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/tags/themes/"
+                href="http://localhost:1313/hugo_stack/uk/tags/themes/"
                 />
   </url><url>
-    <loc>/uk/categories/themes/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/themes/"
+                href="http://localhost:1313/hugo_stack/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/categories/themes/"
+                href="http://localhost:1313/hugo_stack/uk/categories/themes/"
                 />
   </url><url>
-    <loc>/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/p/markdown-syntax-guide/"
+                href="http://localhost:1313/hugo_stack/p/markdown-syntax-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/"
+                href="http://localhost:1313/hugo_stack/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/"
                 />
   </url><url>
-    <loc>/uk/%D0%BF%D1%80%D0%BE-dog/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/%D0%BF%D1%80%D0%BE-dog/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="http://localhost:1313/hugo_stack/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/%D0%BF%D1%80%D0%BE-dog/"
+                href="http://localhost:1313/hugo_stack/uk/%D0%BF%D1%80%D0%BE-dog/"
                 />
   </url><url>
-    <loc>/uk/%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/links/"
+                href="http://localhost:1313/hugo_stack/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F/"
+                href="http://localhost:1313/hugo_stack/uk/%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F/"
                 />
   </url><url>
-    <loc>/uk/search/</loc>
+    <loc>http://localhost:1313/hugo_stack/uk/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/search/"
+                href="http://localhost:1313/hugo_stack/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="/uk/search/"
+                href="http://localhost:1313/hugo_stack/uk/search/"
                 />
   </url>
 </urlset>

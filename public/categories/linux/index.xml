@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Linux on Dog space</title>
-        <link>/categories/linux/</link>
+        <link>http://localhost:1313/hugo_stack/categories/linux/</link>
         <description>Recent content in Linux on Dog space</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Alexb.rob</copyright>
-        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/linux/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo_stack/categories/linux/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Linux useful command</title>
-        <link>/p/linux-useful-command/</link>
+        <link>http://localhost:1313/hugo_stack/p/linux-useful-command/</link>
         <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>/p/linux-useful-command/</guid>
-        <description>&lt;img src="/p/linux-useful-command/ubuntu-z6rtxbp6rijb53hx.jpg" alt="Featured image of post Linux useful command" /&gt;&lt;h2 id=&#34;linux&#34;&gt;Linux
+        <guid>http://localhost:1313/hugo_stack/p/linux-useful-command/</guid>
+        <description>&lt;img src="http://localhost:1313/hugo_stack/p/linux-useful-command/ubuntu-z6rtxbp6rijb53hx.jpg" alt="Featured image of post Linux useful command" /&gt;&lt;h2 id=&#34;linux&#34;&gt;Linux
 &lt;/h2&gt;&lt;p&gt;Linux commands for working with users: overview and benefits&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Use &amp;ldquo;sudo&amp;rdquo; before command for start command as root&lt;/p&gt;

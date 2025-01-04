@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Dog простір</title>
-        <link>/uk/categories/</link>
+        <link>http://localhost:1313/hugo_stack/uk/categories/</link>
         <description>Recent content in Categories on Dog простір</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>uk</language>
         <copyright>Alexb.rob</copyright>
-        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/uk/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo_stack/uk/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Linux</title>
-        <link>/uk/categories/linux/</link>
+        <link>http://localhost:1313/hugo_stack/uk/categories/linux/</link>
         <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>/uk/categories/linux/</guid>
+        <guid>http://localhost:1313/hugo_stack/uk/categories/linux/</guid>
         <description></description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>/uk/categories/syntax/</link>
+        <link>http://localhost:1313/hugo_stack/uk/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/uk/categories/syntax/</guid>
+        <guid>http://localhost:1313/hugo_stack/uk/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>/uk/categories/themes/</link>
+        <link>http://localhost:1313/hugo_stack/uk/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/uk/categories/themes/</guid>
+        <guid>http://localhost:1313/hugo_stack/uk/categories/themes/</guid>
         <description></description>
         </item>
         

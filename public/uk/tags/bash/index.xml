@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bash on Dog простір</title>
-        <link>/uk/tags/bash/</link>
+        <link>http://localhost:1313/hugo_stack/uk/tags/bash/</link>
         <description>Recent content in Bash on Dog простір</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>uk</language>
         <copyright>Alexb.rob</copyright>
-        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/uk/tags/bash/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo_stack/uk/tags/bash/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Корисні команди лінукс</title>
-        <link>/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/</link>
+        <link>http://localhost:1313/hugo_stack/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/</link>
         <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/</guid>
-        <description>&lt;img src="/p/linux-useful-command/ubuntu-z6rtxbp6rijb53hx.jpg" alt="Featured image of post Корисні команди лінукс" /&gt;&lt;h2 id=&#34;linux&#34;&gt;Linux
+        <guid>http://localhost:1313/hugo_stack/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/</guid>
+        <description>&lt;img src="http://localhost:1313/hugo_stack/p/linux-useful-command/ubuntu-z6rtxbp6rijb53hx.jpg" alt="Featured image of post Корисні команди лінукс" /&gt;&lt;h2 id=&#34;linux&#34;&gt;Linux
 &lt;/h2&gt;&lt;h3 id=&#34;work-with-users-and-groups&#34;&gt;Work with users and groups
 &lt;/h3&gt;</description>
         </item>
