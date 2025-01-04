@@ -1,0 +1,32 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Крок 1: Клонування репозиторію
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Крок 2: Встановлення Hugo
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+
+      # Крок 3: Побудова сайту
+      - name: Build the site
+        run: hugo --minify --baseURL="https://AlexRob2201.github.io/hugo_stack/"
+
+      # Крок 4: Публікація на GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
