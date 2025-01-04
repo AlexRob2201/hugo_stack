@@ -2,262 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8080/uk/</loc>
+    <loc>https://example.com/uk/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/"
+                href="https://example.com/uk/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/tags/bash/</loc>
+    <loc>https://example.com/uk/tags/bash/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/tags/bash/"
+                href="https://example.com/tags/bash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/tags/bash/"
+                href="https://example.com/uk/tags/bash/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/categories/</loc>
+    <loc>https://example.com/uk/categories/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/categories/"
+                href="https://example.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/categories/"
+                href="https://example.com/uk/categories/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/tags/linux/</loc>
+    <loc>https://example.com/uk/tags/linux/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/tags/linux/"
+                href="https://example.com/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/tags/linux/"
+                href="https://example.com/uk/tags/linux/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/categories/linux/</loc>
+    <loc>https://example.com/uk/categories/linux/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/categories/linux/"
+                href="https://example.com/categories/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/categories/linux/"
+                href="https://example.com/uk/categories/linux/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/page/</loc>
+    <loc>https://example.com/uk/page/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/page/"
+                href="https://example.com/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/page/"
+                href="https://example.com/uk/page/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/post/</loc>
+    <loc>https://example.com/uk/post/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/post/"
+                href="https://example.com/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/post/"
+                href="https://example.com/uk/post/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/tags/</loc>
+    <loc>https://example.com/uk/tags/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/tags/"
+                href="https://example.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/tags/"
+                href="https://example.com/uk/tags/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/archives/</loc>
+    <loc>https://example.com/uk/archives/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/archives/"
+                href="https://example.com/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/archives/"
+                href="https://example.com/uk/archives/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/</loc>
+    <loc>https://example.com/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/p/linux-useful-command/"
+                href="https://example.com/p/linux-useful-command/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/"
+                href="https://example.com/uk/p/%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8-%D0%BB%D1%96%D0%BD%D1%83%D0%BA%D1%81/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/tags/css/</loc>
+    <loc>https://example.com/uk/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/tags/css/"
+                href="https://example.com/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/tags/css/"
+                href="https://example.com/uk/tags/css/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/tags/html/</loc>
+    <loc>https://example.com/uk/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/tags/html/"
+                href="https://example.com/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/tags/html/"
+                href="https://example.com/uk/tags/html/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/tags/markdown/</loc>
+    <loc>https://example.com/uk/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/tags/markdown/"
+                href="https://example.com/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/tags/markdown/"
+                href="https://example.com/uk/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/categories/syntax/</loc>
+    <loc>https://example.com/uk/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/categories/syntax/"
+                href="https://example.com/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/categories/syntax/"
+                href="https://example.com/uk/categories/syntax/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/tags/themes/</loc>
+    <loc>https://example.com/uk/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/tags/themes/"
+                href="https://example.com/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/tags/themes/"
+                href="https://example.com/uk/tags/themes/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/categories/themes/</loc>
+    <loc>https://example.com/uk/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/categories/themes/"
+                href="https://example.com/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/categories/themes/"
+                href="https://example.com/uk/categories/themes/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</loc>
+    <loc>https://example.com/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/p/markdown-syntax-guide/"
+                href="https://example.com/p/markdown-syntax-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/"
+                href="https://example.com/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/%D0%BF%D1%80%D0%BE-dog/</loc>
+    <loc>https://example.com/uk/%D0%BF%D1%80%D0%BE-dog/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/about/"
+                href="https://example.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/%D0%BF%D1%80%D0%BE-dog/"
+                href="https://example.com/uk/%D0%BF%D1%80%D0%BE-dog/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F/</loc>
+    <loc>https://example.com/uk/%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/links/"
+                href="https://example.com/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F/"
+                href="https://example.com/uk/%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F/"
                 />
   </url><url>
-    <loc>http://localhost:8080/uk/search/</loc>
+    <loc>https://example.com/uk/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:8080/search/"
+                href="https://example.com/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="http://localhost:8080/uk/search/"
+                href="https://example.com/uk/search/"
                 />
   </url>
 </urlset>
