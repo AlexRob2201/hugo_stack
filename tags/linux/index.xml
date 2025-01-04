@@ -1,95 +1,115 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on Dog space</title><link>https://AlexRob2201.github.io/hugo_stack/tags/linux/</link><description>Recent content in Linux on Dog space</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Alexb.rob</copyright><lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://AlexRob2201.github.io/hugo_stack/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux useful command</title><link>https://AlexRob2201.github.io/hugo_stack/p/linux-useful-command/</link><pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate><guid>https://AlexRob2201.github.io/hugo_stack/p/linux-useful-command/</guid><description>&lt;img src="https://AlexRob2201.github.io/hugo_stack/p/linux-useful-command/ubuntu-z6rtxbp6rijb53hx.jpg" alt="Featured image of post Linux useful command" />&lt;h2 id="linux">Linux
-&lt;/h2>&lt;p>Linux commands for working with users: overview and benefits&lt;/p>
-&lt;blockquote>
-&lt;p>Use &amp;ldquo;sudo&amp;rdquo; before command for start command as root&lt;/p>
-&lt;/blockquote>
-&lt;p>Example&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">sudo adduser username
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;blockquote>
-&lt;p>Use commands in a structured way, like: command parameter value&lt;br>&lt;/p>
-&lt;/blockquote>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl"> rm -rf /some/dir
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h2 id="work-with-users-and-groups">Work with users and groups
-&lt;/h2>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Command&lt;/th>
-&lt;th>Description&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>adduser username\userdel username&lt;/td>
-&lt;td>Provides a controlled environment for each user, allows you to personalize access and avoid confusion in work. The command creates\Deletes a new user&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>passwd username&lt;/td>
-&lt;td>Updates the password for a user. An administrator can use this command to force a password change in case of a compromise. Benefits: Maintains system security by regularly changing passwords and restoring user access.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>usermod -aG groupname username&lt;/td>
-&lt;td>Adds a user to a group to manage their access rights.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>who&lt;/td>
-&lt;td>displays logged in users&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>id username&lt;/td>
-&lt;td>shows the user&amp;rsquo;s UID, GID, and groups.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>sudo groupadd groupname&lt;/td>
-&lt;td>Creates a new group to organize users by shared roles or access&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="work-with-file-and-dir">Work with file and dir
-&lt;/h2>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Command&lt;/th>
-&lt;th>Description&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>mkdir new_directory&lt;/td>
-&lt;td>Create new dir&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>mv old_name new_name&lt;/td>
-&lt;td>Move to other dir&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>cp file.txt /path/to/directory/&lt;/td>
-&lt;td>Copy files or use with parametrs -r for copy dir&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>rm file.txt&lt;/td>
-&lt;td>Delete files or use with paremetr -r for remove dir&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>ls&lt;/td>
-&lt;td>Show list of files on dir. Better use with parametrs like ls -la for more info&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>find /path -name &amp;ldquo;*.txt&amp;rdquo;&lt;/td>
-&lt;td>Search for files according to specified criteria&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Linux on Dog space</title>
+        <link>https://AlexRob2201.github.io/hugo_stack/tags/linux/</link>
+        <description>Recent content in Linux on Dog space</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Alexb.rob</copyright>
+        <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://AlexRob2201.github.io/hugo_stack/tags/linux/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Linux useful command</title>
+        <link>https://AlexRob2201.github.io/hugo_stack/p/linux-useful-command/</link>
+        <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://AlexRob2201.github.io/hugo_stack/p/linux-useful-command/</guid>
+        <description>&lt;img src="https://AlexRob2201.github.io/hugo_stack/p/linux-useful-command/ubuntu-z6rtxbp6rijb53hx.jpg" alt="Featured image of post Linux useful command" /&gt;&lt;h2 id=&#34;linux&#34;&gt;Linux
+&lt;/h2&gt;&lt;p&gt;Linux commands for working with users: overview and benefits&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Use &amp;ldquo;sudo&amp;rdquo; before command for start command as root&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Example&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo adduser username
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;Use commands in a structured way, like: command parameter value&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; rm -rf /some/dir
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;work-with-users-and-groups&#34;&gt;Work with users and groups
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Command&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;adduser username\userdel username&lt;/td&gt;
+          &lt;td&gt;Provides a controlled environment for each user, allows you to personalize access and avoid confusion in work. The command creates\Deletes a new user&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;passwd username&lt;/td&gt;
+          &lt;td&gt;Updates the password for a user. An administrator can use this command to force a password change in case of a compromise. Benefits: Maintains system security by regularly changing passwords and restoring user access.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;usermod -aG groupname username&lt;/td&gt;
+          &lt;td&gt;Adds a user to a group to manage their access rights.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;who&lt;/td&gt;
+          &lt;td&gt;displays logged in users&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;id username&lt;/td&gt;
+          &lt;td&gt;shows the user&amp;rsquo;s UID, GID, and groups.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;sudo groupadd groupname&lt;/td&gt;
+          &lt;td&gt;Creates a new group to organize users by shared roles or access&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;work-with-file-and-dir&#34;&gt;Work with file and dir
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Command&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;mkdir new_directory&lt;/td&gt;
+          &lt;td&gt;Create new dir&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;mv old_name new_name&lt;/td&gt;
+          &lt;td&gt;Move to other dir&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;cp file.txt /path/to/directory/&lt;/td&gt;
+          &lt;td&gt;Copy files or use with parametrs -r for copy dir&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;rm file.txt&lt;/td&gt;
+          &lt;td&gt;Delete files or use with paremetr -r for remove dir&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ls&lt;/td&gt;
+          &lt;td&gt;Show list of files on dir. Better use with parametrs like ls -la for more info&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;find /path -name &amp;ldquo;*.txt&amp;rdquo;&lt;/td&gt;
+          &lt;td&gt;Search for files according to specified criteria&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
