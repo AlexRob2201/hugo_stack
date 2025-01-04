@@ -22,7 +22,7 @@ jobs:
 
       # Крок 3: Побудова сайту
       - name: Build the site
-        run: hugo server --bind 0.0.0.0 --port 8080 --baseURL="https://AlexRob2201.github.io/hugo_stack/"
+        run: hugo
 
       # Крок 4: Публікація на GitHub Pages
       - name: Deploy to GitHub Pages

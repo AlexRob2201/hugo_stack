@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Themes on Dog простір</title>
-        <link>http://localhost:1313/hugo_stack/uk/categories/themes/</link>
+        <link>https://AlexRob2201.github.io/hugo_stack/uk/categories/themes/</link>
         <description>Recent content in Themes on Dog простір</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>uk</language>
         <copyright>Alexb.rob</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo_stack/uk/categories/themes/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://AlexRob2201.github.io/hugo_stack/uk/categories/themes/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Гайд з синтаксису маркдаун</title>
-        <link>http://localhost:1313/hugo_stack/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</link>
+        <link>https://AlexRob2201.github.io/hugo_stack/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugo_stack/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</guid>
-        <description>&lt;img src="http://localhost:1313/hugo_stack/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Гайд з синтаксису маркдаун" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+        <guid>https://AlexRob2201.github.io/hugo_stack/uk/p/%D0%B3%D0%B0%D0%B9%D0%B4-%D0%B7-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</guid>
+        <description>&lt;img src="https://AlexRob2201.github.io/hugo_stack/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Гайд з синтаксису маркдаун" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1
